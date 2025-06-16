@@ -24,7 +24,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Escolhe a opção de uma área mais complexa e que você não tem tanta experiência, apenas para ganhar mais conhecimento. ",
-                afirmacao: "Conseguiu utilizar a IA para buscar informações úteis."
+                afirmacao: "Conseguiu ser ousado(a) e terá uma mente brilhante."
             },
             {
                 texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
