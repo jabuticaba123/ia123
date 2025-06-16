@@ -6,7 +6,8 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Você acaba de finalizar o ensino médio e precisa decidir qual será a sua carreira futura. Suas escolhas podem gerar consequências."   alternativas: [
+        enunciado: "Você acaba de finalizar o ensino médio e precisa decidir qual será a sua carreira futura. Suas escolhas podem gerar consequências."   
+        alternativas: [
             {
                 texto: "Isso é assustador!",
                 afirmacao: "No início ficou com medo do que essa tecnologia pode fazer. "
