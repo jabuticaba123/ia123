@@ -23,7 +23,7 @@ const perguntas = [
         enunciado: "Ao acessar sites que a uma lista com diversas escolhas de carreira. Você decide selecionar opções que vão de acordo com suas habilidades.",
         alternativas: [
             {
-                texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
+                texto: "Escolhe a opção de uma área mais complexa e que você não tem tanta experiência, apenas para ganhar mais conhecimento. ",
                 afirmacao: "Conseguiu utilizar a IA para buscar informações úteis."
             },
             {
