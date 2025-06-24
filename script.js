@@ -27,8 +27,8 @@ const perguntas = [
                 afirmacao: "Conseguiu ser ousado(a) e terá uma mente brilhante."
             },
             {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
-                afirmacao: "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho."
+                texto: "Ao selecionar opção que contém mais de seu conhecimento, você entra em uma área mais acessível.",
+                afirmacao: "Conseguiu ser equilibrado e poderá ampliar seus métodos."
             }
         ]
     },
