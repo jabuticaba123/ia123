@@ -40,7 +40,7 @@ const perguntas = [
                 afirmacao: "Você se saiu bem na entrevista e foi contratado."
             },
             {
-                texto: "Colocará a primrira peça de roupa despojada, chegará atrasado e usará gírias.",
+                texto: "Colocará a primeira peça de roupa despojada, chegará atrasado e usará gírias.",
                 afirmacao: "Você passou uma má visão e não foi contratado."
             }
         ]
