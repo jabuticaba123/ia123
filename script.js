@@ -46,28 +46,28 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Ao final da discussão, você precisou criar uma imagem no computador que representasse o que pensa sobre IA. E agora?",
+        enunciado: " Com seu desempenho em uma área de trabalho é necessário ser bem visto com quais atitudes?",
         alternativas: [
             {
-                texto: "Criar uma imagem utilizando uma plataforma de design como o Paint.",
-                afirmacao: "Notou também que muitas pessoas não sabem ainda utilizar as ferramentas tradicionais e decidiu compartilhar seus conhecimentos de design utilizando ferramentas de pintura digital para iniciantes."
+                texto: "Se dedicar ao máximo, ser bem disposto, comunicativo e pontual.",
+                afirmacao: "Parábens! Seu chefe notou seu desempenho e recebeu um aumento salarial."
             },
             {
-                texto: "Criar uma imagem utilizando um gerador de imagem de IA.",
-                afirmacao: "Acelerou o processo de criação de trabalhos utilizando geradores de imagem e agora consegue ensinar pessoas que sentem dificuldades em desenhar manualmente como utilizar também!"
+                texto: "Se dedicar quando somente lhe dar vontade, reclamar diariamente e chegar atrasado.",
+                afirmacao: "Ops! Somente seu colega de trabalho recebeu um aumento."
             }
         ]
     },
     {
-        enunciado: "Você tem um trabalho em grupo de biologia para entregar na semana seguinte, o andamento do trabalho está um pouco atrasado e uma pessoa do seu grupo decidiu fazer com ajuda da IA. O problema é que o trabalho está totalmente igual ao do chat. O que você faz? ",
+        enunciado: "Você precisa organizar uma apresentação para a seguinte semana, mas houve um imprevisto e está um pouco atrasado. O que você fará? ",
         alternativas: [
             {
-                texto: "Escrever comandos para o chat é uma forma de contribuir com o trabalho, por isso não é um problema utilizar o texto inteiro.",
-                afirmacao: "Infelizmente passou a utilizar a IA para fazer todas suas tarefas e agora se sente dependente da IA para tudo."
+                texto: "Decidiu utilizar a inteligência artificial para realizar boa parte de seu projeto e facilitar sua situação." ,
+                afirmacao: "O seu chefe achou muito monotóno seu projeto e não aprovou. Ele esperava mais dedicação."
             },
             {
-                texto: "O chat pode ser uma tecnologia muito avançada, mas é preciso manter a atenção pois toda máquina erra, por isso revisar o trabalho e contribuir com as perspectivas pessoais é essencial.",
-                afirmacao: "Percebeu que toda IA reproduz orientações baseadas na empresa que programou e muito do que o chat escrevia não refletia o que pensava e por isso sabe que os textos gerados pela IA devem servir como auxílio e não resultado final. "
+                texto: "Dedicou-se ao máximo em seu projeto, ficando com um sono desregulado.",
+                afirmacao: "Você foi aprovado! Se projeto foi um sucesso. "
             }
         ]
     },
