@@ -27,21 +27,21 @@ const perguntas = [
                 afirmacao: "Conseguiu ser ousado(a) e terá uma mente brilhante."
             },
             {
-                texto: "Ao selecionar opção que contém mais de seu conhecimento, você entra em uma área mais acessível.",
+                texto: "Ao selecionar a opção que contém mais de seu conhecimento, você entra em uma área mais acessível.",
                 afirmacao: "Conseguiu ser equilibrado e poderá ampliar seus métodos."
             }
         ]
     },
     {
-        enunciado: "Após a elaboração do trabalho escrito, a professora realizou um debate entre a turma para entender como foi realizada a pesquisa e escrita. Nessa conversa também foi levantado um ponto muito importante: como a IA impacta o trabalho do futuro. Nesse debate, como você se posiciona?",
+        enunciado: "Chega o grande dia da entrevista de emprego. Como será sua atitude diante isso?",
         alternativas: [
             {
-                texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
-                afirmacao: "Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA."
+                texto: "Se vestirá formalmente para a ocasiáo, irá se apresentar adequadamente e usará o vocabulário correto.",
+                afirmacao: "Você se saiu bem na entrevista e foi contratado."
             },
             {
-                texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
-                afirmacao: "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética."
+                texto: "Colocará a primrira peça de roupa despojada, chegará atrasado e usará gírias.",
+                afirmacao: "Você passou uma má visão e não foi contratado."
             }
         ]
     },
